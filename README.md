@@ -26,7 +26,7 @@
   <a href = "mailto:alexsandrodiascravo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/i/in/alex-sandro-dias-cravo-11a9751b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Alexcravoi/Alexcravo/output/github-contribution-grid-snake.svg)
+ 
  
 </div>
 
